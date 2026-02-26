@@ -18,7 +18,7 @@
         "fs-extra": "^8.1.0",
         "get-value": "^3.0.1",
         "md5": "^2.3.0",
-        "rollup": "^1.29.0",
+        "rollup": "^2.80.0",
         "rollup-plugin-babel": "^4.3.3",
         "rollup-plugin-commonjs": "^10.1.0",
         "rollup-plugin-filesize": "^6.2.1",
